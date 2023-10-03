@@ -1,4 +1,4 @@
-# Git_Cource
+# Git_Course
 For Mohammed Rayan_Git Course
 
 
